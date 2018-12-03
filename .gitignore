@@ -1,0 +1,98 @@
+.DS_Store
+node_modules/
+*.log
+haters/
+.idea/
+01 - JavaScript Drum Kit/index-FINISHED.html
+01 - JavaScript Drum Kit/index-START.html
+01 - JavaScript Drum Kit/sounds/boom.wav
+01 - JavaScript Drum Kit/sounds/clap.wav
+01 - JavaScript Drum Kit/sounds/hihat.wav
+01 - JavaScript Drum Kit/sounds/kick.wav
+01 - JavaScript Drum Kit/sounds/openhat.wav
+01 - JavaScript Drum Kit/sounds/ride.wav
+01 - JavaScript Drum Kit/sounds/snare.wav
+01 - JavaScript Drum Kit/sounds/tink.wav
+01 - JavaScript Drum Kit/sounds/tom.wav
+01 - JavaScript Drum Kit/style.css
+02 - JS and CSS Clock/index-FINISHED.html
+02 - JS and CSS Clock/index-START.html
+03 - CSS Variables/index-FINISHED.html
+03 - CSS Variables/index-START.html
+04 - Array Cardio Day 1/index-FINISHED.html
+04 - Array Cardio Day 1/index-START.html
+05 - Flex Panel Gallery/index-FINISHED.html
+05 - Flex Panel Gallery/index-START.html
+06 - Type Ahead/index-FINISHED.html
+06 - Type Ahead/index-START.html
+06 - Type Ahead/style.css
+07 - Array Cardio Day 2/index-FINISHED.html
+07 - Array Cardio Day 2/index-START.html
+08 - Fun with HTML5 Canvas/index-FINISHED.html
+08 - Fun with HTML5 Canvas/index-START.html
+09 - Dev Tools Domination/index-FINISHED.html
+09 - Dev Tools Domination/index-START.html
+10 - Hold Shift and Check Checkboxes/index-FINISHED.html
+10 - Hold Shift and Check Checkboxes/index-START.html
+11 - Custom Video Player/652333414.mp4
+11 - Custom Video Player/index.html
+11 - Custom Video Player/scripts-FINISHED.js
+11 - Custom Video Player/scripts.js
+11 - Custom Video Player/style.css
+12 - Key Sequence Detection/index-FINISHED.html
+12 - Key Sequence Detection/index-START.html
+13 - Slide in on Scroll/index-FINISHED.html
+13 - Slide in on Scroll/index-START.html
+14 - JavaScript References VS Copying/index-FINISHED.html
+14 - JavaScript References VS Copying/index-START.html
+15 - LocalStorage/index-FINISHED.html
+15 - LocalStorage/index-START.html
+15 - LocalStorage/style.css
+16 - Mouse Move Shadow/index-finished.html
+16 - Mouse Move Shadow/index-start.html
+17 - Sort Without Articles/index-FINISHED.html
+17 - Sort Without Articles/index-START.html
+18 - Adding Up Times with Reduce/index-FINISHED.html
+18 - Adding Up Times with Reduce/index-START.html
+19 - Webcam Fun/index.html
+19 - Webcam Fun/package.json
+19 - Webcam Fun/scripts-FINISHED.js
+19 - Webcam Fun/scripts.js
+19 - Webcam Fun/style.css
+20 - Speech Detection/index-FINISHED.html
+20 - Speech Detection/index-START.html
+20 - Speech Detection/package.json
+21 - Geolocation/index-FINISHED.html
+21 - Geolocation/index-START.html
+21 - Geolocation/package.json
+22 - Follow Along Link Highlighter/index-FINISHED.html
+22 - Follow Along Link Highlighter/index-START.html
+22 - Follow Along Link Highlighter/style.css
+23 - Speech Synthesis/index-FINISHED.html
+23 - Speech Synthesis/index-START.html
+23 - Speech Synthesis/style.css
+24 - Sticky Nav/index-FINISHED.html
+24 - Sticky Nav/index-START.html
+24 - Sticky Nav/style-FINISHED.css
+24 - Sticky Nav/style-START.css
+25 - Event Capture, Propagation, Bubbling and Once/index-FINISHED.html
+25 - Event Capture, Propagation, Bubbling and Once/index-START.html
+26 - Stripe Follow Along Nav/index-FINISHED.html
+26 - Stripe Follow Along Nav/index-START.html
+27 - Click and Drag/index-FINISHED.html
+27 - Click and Drag/index-START.html
+27 - Click and Drag/style.css
+28 - Video Speed Controller/index-FINISHED.html
+28 - Video Speed Controller/index-START.html
+28 - Video Speed Controller/style.css
+29 - Countdown Timer/index.html
+29 - Countdown Timer/scripts-FINISHED.js
+29 - Countdown Timer/scripts-START.js
+29 - Countdown Timer/style.css
+30 - Whack A Mole/dirt.svg
+30 - Whack A Mole/index-FINISHED.html
+30 - Whack A Mole/index-START.html
+30 - Whack A Mole/mole.svg
+30 - Whack A Mole/style.css
+PULL_REQUEST_TEMPLATE.md
+readme.md
